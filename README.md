@@ -1,2 +1,2 @@
 # randmaker
-使用python进行随机数生成
+使用python生成各种伪随机数
